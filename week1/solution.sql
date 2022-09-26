@@ -1,0 +1,1 @@
+-- Solution for Frosty Friday Challenge - Week 1
